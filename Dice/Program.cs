@@ -10,6 +10,7 @@ namespace Dice
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("TEst");
         }
     }
 }
