@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Dice
 {
-    class Program
+    class GameEngine
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Bienvenue dans le jeu de dés.");
-        }
     }
 }
